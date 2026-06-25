@@ -1,0 +1,11 @@
+ID,Text,Label,Confidence,Reason,Reviewer,Approval
+1,I absolutely love this product,Positive,98,Strong positive sentiment and recommendation,Ikenna,Yes
+2,The service was terrible,Negative,99,Clear expression of dissatisfaction,Ikenna,Yes
+3,Package arrived yesterday,Neutral,96,Factual statement without sentiment,Ikenna,Yes
+4,Amazing customer support,Positive,97,Praise directed at customer support,Ikenna,Yes
+5,Not worth the money,Negative,95,Negative evaluation of product value,Ikenna,Yes
+6,The event starts at 4 PM,Neutral,99,Informational statement,Ikenna,Yes
+7,Very satisfied with the results,Positive,98,Strong satisfaction expressed,Ikenna,Yes
+8,The website keeps crashing,Negative,97,Complaint regarding functionality,Ikenna,Yes
+9,Average experience overall,Neutral,80,Mixed sentiment with no strong polarity,Ikenna,Yes
+10,Highly recommended,Positive,99,Direct recommendation,Ikenna,Yes
