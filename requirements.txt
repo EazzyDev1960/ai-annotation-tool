@@ -1,0 +1,9 @@
+# Project Dependencies
+
+Python >= 3.10
+
+# Standard Library Modules Used
+csv
+collections
+
+# No external third-party dependencies required
